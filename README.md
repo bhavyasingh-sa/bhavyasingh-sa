@@ -1,102 +1,57 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Bhavya singh</h1>
 
-<p><sub>· BHAVYASINGH-SA ·</sub></p>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=living-identity&label=Bhavya%20singh%20&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=living-identity&label=Bhavya%20singh%20&v=wow-living-identity-1&mode=dark" width="100%" alt="Bhavya singh animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/bhavyasingh-sa">GitHub</a></p>
-</div>
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasingh-sa&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="bhavyasingh-sa's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyasingh-sa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="bhavyasingh-sa's GitHub Streak" width="49%" />
+</p>
 
-<h2>Identity, with signal</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasingh-sa&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavyasingh-sa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bhavya singh's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyasingh-sa&theme=nightowl&radius=10" alt="bhavyasingh-sa's Activity Graph" />
+</p>
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Python` · `JavaScript` · `TypeScript`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>5</strong> repos<br /><strong>0</strong> stars<br /><strong>18</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
+## 🛠️ Languages & Tools
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-<h2>What moves the work</h2>
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&items=Python%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Bhavya singh animated profile highlights" />
-</picture>
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-<h2>The tools behind the signal</h2>
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Bhavya singh animated technology stack" />
-</picture>
-
-<p align="center"><sub>Python · JavaScript · TypeScript · C++ · CSS · HTML · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&repos=bhavyasingh-sa%2Fsmart-traffic-management-system%2Cbhavyasingh-sa%2FAI-Smart-Traffic-Management-System%2Cbhavyasingh-sa%2FSpace-mission-simulator%2Cbhavyasingh-sa%2FDigital-bouquet&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&repos=bhavyasingh-sa%2Fsmart-traffic-management-system%2Cbhavyasingh-sa%2FAI-Smart-Traffic-Management-System%2Cbhavyasingh-sa%2FSpace-mission-simulator%2Cbhavyasingh-sa%2FDigital-bouquet&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Bhavya singh animated project constellation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&repos=bhavyasingh-sa%2Fsmart-traffic-management-system%2Cbhavyasingh-sa%2FAI-Smart-Traffic-Management-System%2Cbhavyasingh-sa%2FSpace-mission-simulator%2Cbhavyasingh-sa%2FDigital-bouquet&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&repos=bhavyasingh-sa%2Fsmart-traffic-management-system%2Cbhavyasingh-sa%2FAI-Smart-Traffic-Management-System%2Cbhavyasingh-sa%2FSpace-mission-simulator%2Cbhavyasingh-sa%2FDigital-bouquet&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Bhavya singh animated project launch timeline" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/bhavyasingh-sa/smart-traffic-management-system">smart-traffic-management-system</a></strong></p><p>Movement-aware adaptive traffic signal controller combining a trained ML classifier, IR retrieval over historical traffic data, and Gemini-grounded ex</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/bhavyasingh-sa/AI-Smart-Traffic-Management-System">AI-Smart-Traffic-Management-System</a></strong></p><p>AI-Based Smart Traffic Management and Congestion Prediction using Information Retrieval and Machine Learning.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/bhavyasingh-sa/Space-mission-simulator">Space-mission-simulator</a></strong></p><p>Space mission simulator made from C++</p><p><sub>C++ · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/bhavyasingh-sa/Digital-bouquet">Digital-bouquet</a></strong></p><p>Digital bouquet builder app with shareable links</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Bhavya singh animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Bhavya singh contribution energy field" />
-</picture>
-
-<p align="center"><sub>1 day current streak · 8 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Bhavya singh contact links" />
-</picture>
-<p><a href="https://github.com/bhavyasingh-sa">GitHub</a></p>
-<p><sub>Bhavya singh · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+  <!---->
 </div>
+
+<p align="center"><sub>Bhavya singh  · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
