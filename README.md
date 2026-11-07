@@ -25,21 +25,20 @@
 
 > ## Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
-<p align="center"><sub>Also: SQL</sub></p>
+<p align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" /></p>
 
 > ## ML & Data
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" style="margin: 4px;" /></p>
-<p align="center"><sub>Also: TF-IDF retrieval · Gemini API</sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini API" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://img.shields.io/badge/TF--IDF-Retrieval-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="TF-IDF Retrieval" /></p>
 
 > ## Web & Databases
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" style="margin: 4px;" /></p>
-<p align="center"><sub>Also: Leaflet.js</sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet.js" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Tools
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Core CS
-<p align="center">Data Structures &amp; Algorithms · Object-Oriented Programming</p>
+<p align="center"><img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-2F3B4C?style=for-the-badge" alt="DSA" /> <img src="https://img.shields.io/badge/OOP-Object--Oriented_Programming-2F3B4C?style=for-the-badge" alt="OOP" /></p>
 
 ## 🚀 Projects
 - **[smart-traffic-management-system](https://github.com/bhavyasingh-sa/smart-traffic-management-system)** — Movement-aware adaptive traffic signal controller using an ML classifier, IR over historical traffic data and Gemini-grounded explanations, with a live Streamlit dashboard. `Python`
