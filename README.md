@@ -56,6 +56,12 @@ Contributing through Nexus Spring of Code 2026 (NSoC '26).
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/bhavya-singh-376006267" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyasingh-sa/bhavyasingh-sa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyasingh-sa/bhavyasingh-sa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyasingh-sa/bhavyasingh-sa/output/github-snake.svg" />
+</picture>
+
 <div align="center">
   <!---->
 </div>
