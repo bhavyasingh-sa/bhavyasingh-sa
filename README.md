@@ -53,6 +53,9 @@ Contributing through Nexus Spring of Code 2026 (NSoC '26).
 - [CAREERFORGE #370](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/370) — reported a bug where the article reader window cannot be closed
 
 
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/bhavya-singh-376006267" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a></p>
+
 <div align="center">
   <!---->
 </div>
