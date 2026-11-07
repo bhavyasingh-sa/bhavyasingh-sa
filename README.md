@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · BHAVYASINGH-SA · LIVE</sub></p>
+<p><sub>· BHAVYASINGH-SA · LIVE</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhavyasingh-sa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176571887%3Fu%3Dcb3f0dd6c2ca113c4b91ef08b3d6366f566ca337%26v%3D4&variant=living-identity&label=Bhavya%20singh%20&v=wow-living-identity-1&mode=light" />
