@@ -41,14 +41,17 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+## 🚀 Projects
+- **[smart-traffic-management-system](https://github.com/bhavyasingh-sa/smart-traffic-management-system)** — Movement-aware adaptive traffic signal controller using an ML classifier, IR over historical traffic data and Gemini-grounded explanations, with a live Streamlit dashboard. `Python`
+- **[Digital-bouquet](https://github.com/bhavyasingh-sa/Digital-bouquet)** — Digital bouquet builder app with shareable links. `TypeScript`
+- **[mindcare-app](https://github.com/bhavyasingh-sa/mindcare-app)** — AI mental health app for youth. `JavaScript`
+- **[Space-mission-simulator](https://github.com/bhavyasingh-sa/Space-mission-simulator)** — Space mission simulator. `C++`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+## 🌱 Open Source
+Contributing through Nexus Spring of Code 2026 (NSoC '26).
+- [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — availability status badge for the developer-portfolio showcase (open, awaiting review)
+- [CAREERFORGE #370](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/370) — reported a bug where the article reader window cannot be closed
+
 
 <div align="center">
   <!---->
