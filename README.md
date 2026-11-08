@@ -62,9 +62,3 @@ Contributing through Nexus Spring of Code 2026 (NSoC '26).
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyasingh-sa/bhavyasingh-sa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyasingh-sa/bhavyasingh-sa/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>Bhavya singh  · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
