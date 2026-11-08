@@ -43,6 +43,7 @@
 <p align="center"><img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-2F3B4C?style=for-the-badge" alt="DSA" /> <img src="https://img.shields.io/badge/OOP-Object--Oriented_Programming-2F3B4C?style=for-the-badge" alt="OOP" /></p>
 
 ## 🚀 Projects
+- **[BitChat](https://github.com/bhavyasingh-sa/BitChat)** — Java group chat built with sockets, threads and Swing, paired with an ESP32 touchscreen that creates the Wi-Fi network. `Java`
 - **[smart-traffic-management-system](https://github.com/bhavyasingh-sa/smart-traffic-management-system)** — Movement-aware adaptive traffic signal controller using an ML classifier, IR over historical traffic data and Gemini-grounded explanations, with a live Streamlit dashboard. `Python`
 - **[Digital-bouquet](https://github.com/bhavyasingh-sa/Digital-bouquet)** — Digital bouquet builder app with shareable links. `TypeScript`
 - **[mindcare-app](https://github.com/bhavyasingh-sa/mindcare-app)** — AI mental health app for youth. `JavaScript`
