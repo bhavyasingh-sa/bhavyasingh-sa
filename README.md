@@ -3,7 +3,9 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- CSE student
+- Computer Science student who learns by building
+- Working with Python, C++ and a bit of AI and web development
+- Contributing to open source through NSoC '26
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
