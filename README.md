@@ -48,7 +48,7 @@
 
 ## 🌱 Open Source
 Contributing through Nexus Spring of Code 2026 (NSoC '26).
-- [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — availability status badge for the developer-portfolio showcase (open, awaiting review)
+- [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — availability status badge for the developer-portfolio showcase (merged)
 - [CAREERFORGE #370](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/370) — reported a bug where the article reader window cannot be closed
 
 
