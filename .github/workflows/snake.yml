@@ -24,12 +24,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Contribution heatmap
-        run: |
-          mkdir -p dist
-          curl -fsSL "https://ghchart.rshah.org/7fdbca/${{ github.repository_owner }}" \
-            | sed -e 's/#EEEEEE/#0b2942/g' -e 's/#767676/#8da0b8/g' > dist/github-chart.svg
-
       # crazy-max/ghaction-github-pages v4.2.0 (pinned to commit)
       - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
