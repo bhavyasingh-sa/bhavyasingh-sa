@@ -19,9 +19,6 @@
 <p align="center">
   <img src="https://github-profile-trophy-pi.vercel.app/?username=bhavyasingh-sa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&v=20261109" alt="Bhavya singh's GitHub Trophies" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavyasingh-sa&theme=nightowl&v=20261109" alt="bhavyasingh-sa's Contribution Summary" width="70%" />
-</p>
 
 ## 🛠️ Languages & Tools
 
