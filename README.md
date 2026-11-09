@@ -51,10 +51,11 @@
 
 ## 🌱 Open Source
 Contributing through Nexus Spring of Code 2026 (NSoC '26).
-- [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — availability status badge for the developer-portfolio showcase (merged)
-- [CAREERFORGE #370](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/370) — reported a bug where the article reader window cannot be closed (fixed)
-- [CAREERFORGE #382](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/382) — fix for the article reader window that could not be closed (merged)
-- [CodePulse #115](https://github.com/code-with-abhi-i5/CodePulse/pull/115) — customizable color palettes for the contribution heatmap, saved in localStorage (merged)
+<!-- OPEN_SOURCE:START -->
+- [CodePulse #115](https://github.com/code-with-abhi-i5/CodePulse/pull/115) — Add customizable color palettes (merged)
+- [CAREERFORGE #382](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/382) — Hide article reader when hidden attribute is set (merged)
+- [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — Add availability status badge (merged)
+<!-- OPEN_SOURCE:END -->
 
 
 ## 🔗 Connect with Me
