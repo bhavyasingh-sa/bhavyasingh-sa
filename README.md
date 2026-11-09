@@ -57,6 +57,7 @@
 ## 🌱 Open Source
 Contributing through Nexus Spring of Code 2026 (NSoC '26).
 <!-- OPEN_SOURCE:START -->
+- [raktsetu #84](https://github.com/saisiddi/raktsetu/pull/84) — Add a skip to main content link. Closes #43 (open, awaiting review)
 - [CodePulse #115](https://github.com/code-with-abhi-i5/CodePulse/pull/115) — Add customizable color palettes (merged)
 - [CAREERFORGE #382](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/382) — Hide article reader when hidden attribute is set (merged)
 - [CAREERFORGE #369](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/369) — Add availability status badge (merged)
