@@ -1,3 +1,4 @@
+import datetime
 import json
 import os
 import re
@@ -71,6 +72,8 @@ def main():
         print("Markers not found in README.", file=sys.stderr)
         return 1
     new = pattern.sub(lambda _: f"{START}\n{block}\n{END}", text)
+    today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d")
+    new = re.sub(r"(&v=)\d{8}(?=[\"&])", lambda m: m.group(1) + today, new)
     if new != text:
         with open(README, "w", encoding="utf-8") as f:
             f.write(new)
