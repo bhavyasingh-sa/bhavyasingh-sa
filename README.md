@@ -57,6 +57,7 @@
 ## 🌱 Open Source
 Contributing through Nexus Spring of Code 2026 (NSoC '26).
 <!-- OPEN_SOURCE:START -->
+- [raktsetu #87](https://github.com/saisiddi/raktsetu/pull/87) — Add real screenshots to the README. Closes #45 (open, awaiting review)
 - [dynamic_ledge #10](https://github.com/shandilyaswagat/dynamic_ledge/pull/10) — Choose what Home shows, and add your own tiles (open, awaiting review)
 - [dynamic_ledge #9](https://github.com/shandilyaswagat/dynamic_ledge/pull/9) — Show the brightness indicator only for the brightness keys, and shorten it (open, awaiting review)
 - [dynamic_ledge #8](https://github.com/shandilyaswagat/dynamic_ledge/pull/8) — Add an Edit menu so copy and paste work in the notch's text fields (open, awaiting review)
