@@ -9,15 +9,15 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhavyasingh-sa&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400&v=20261112" alt="bhavyasingh-sa's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=bhavyasingh-sa&theme=nightowl&hide_border=true&cache_seconds=86400&v=20261112" alt="bhavyasingh-sa's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhavyasingh-sa&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400&v=20261113" alt="bhavyasingh-sa's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyasingh-sa&theme=nightowl&hide_border=true&cache_seconds=86400&v=20261113" alt="bhavyasingh-sa's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhavyasingh-sa&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400&v=20261112" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhavyasingh-sa&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400&v=20261113" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy-pi.vercel.app/?username=bhavyasingh-sa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&v=20261112" alt="Bhavya singh's GitHub Trophies" />
+  <img src="https://github-profile-trophy-pi.vercel.app/?username=bhavyasingh-sa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&v=20261113" alt="Bhavya singh's GitHub Trophies" />
 </p>
 
 <p align="center">
