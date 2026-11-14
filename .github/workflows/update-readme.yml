@@ -2,11 +2,18 @@ name: Update open source list and stats cards
 
 on:
   schedule:
-    - cron: "30 */6 * * *"
+    # Every 5 minutes, the shortest interval GitHub allows. Runs can start a few minutes late
+    # when GitHub is busy, and a run only commits when something actually changed.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Never run two at once, so two runs can't push over each other.
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
 
 jobs:
   update:
