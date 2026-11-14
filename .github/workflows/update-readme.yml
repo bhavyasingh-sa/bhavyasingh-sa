@@ -1,4 +1,4 @@
-name: Update open source list
+name: Update open source list and stats cards
 
 on:
   schedule:
@@ -22,14 +22,22 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: python3 .github/scripts/update_open_source.py
 
+      # Draws assets/stats-card.svg and assets/top-langs.svg. It counts public data with the default
+      # token; add a personal access token as the secret STATS_TOKEN to include private repositories.
+      - name: Redraw the stats cards
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/generate_cards.py
+
       - name: Commit changes
         run: |
-          if git diff --quiet; then
+          git add README.md assets
+          if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update open source contributions"
+          git commit -m "Update open source list and stats cards"
           git push
