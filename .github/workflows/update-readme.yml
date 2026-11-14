@@ -1,10 +1,10 @@
-name: Update open source list and stats cards
+name: Update open source list
 
 on:
   schedule:
-    # Every 5 minutes, the shortest interval GitHub allows. Runs can start a few minutes late
-    # when GitHub is busy, and a run only commits when something actually changed.
-    - cron: "*/5 * * * *"
+    # GitHub runs scheduled workflows when it has capacity, so this is a best effort, not a promise.
+    # Press "Run workflow" for an immediate refresh.
+    - cron: "30 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,22 +29,14 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: python3 .github/scripts/update_open_source.py
 
-      # Draws assets/stats-card.svg and assets/top-langs.svg. It counts public data with the default
-      # token; add a personal access token as the secret STATS_TOKEN to include private repositories.
-      - name: Redraw the stats cards
-        env:
-          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-          GITHUB_USER: ${{ github.repository_owner }}
-        run: python3 .github/scripts/generate_cards.py
-
       - name: Commit changes
         run: |
-          git add README.md assets
+          git add README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update open source list and stats cards"
+          git commit -m "Update open source contributions"
           git push
