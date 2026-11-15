@@ -61,6 +61,7 @@ Contributing through Nexus Spring of Code 2026 (NSoC '26).
 - [dynamic_ledge #10](https://github.com/shandilyaswagat/dynamic_ledge/pull/10) — Choose what Home shows, and add your own tiles (open, awaiting review)
 - [dynamic_ledge #9](https://github.com/shandilyaswagat/dynamic_ledge/pull/9) — Show the brightness indicator only for the brightness keys, and shorten it (open, awaiting review)
 - [dynamic_ledge #8](https://github.com/shandilyaswagat/dynamic_ledge/pull/8) — Add an Edit menu so copy and paste work in the notch's text fields (open, awaiting review)
+- [raktsetu #90](https://github.com/saisiddi/raktsetu/pull/90) — Emergency resources page with official links. Closes #50 (merged)
 - [raktsetu #87](https://github.com/saisiddi/raktsetu/pull/87) — Add real screenshots to the README. Closes #45 (merged)
 - [raktsetu #84](https://github.com/saisiddi/raktsetu/pull/84) — Add a skip to main content link. Closes #43 (merged)
 - [CodePulse #146](https://github.com/code-with-abhi-i5/CodePulse/pull/146) — Add a Claim XP celebration modal for completed challenges (merged)
