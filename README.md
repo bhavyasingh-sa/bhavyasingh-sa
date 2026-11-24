@@ -57,11 +57,11 @@
 ## 🌱 Open Source
 Contributing through Nexus Spring of Code 2026 (NSoC '26).
 <!-- OPEN_SOURCE:START -->
-- [ReconGrid-AI #96](https://github.com/AkshayHaldar/ReconGrid-AI/pull/96) — Confirm before downloading the Excel audit workbook (open, awaiting review)
 - [dynamic_ledge #15](https://github.com/shandilyaswagat/dynamic_ledge/pull/15) — Make the Glass theme real Liquid Glass on macOS 26 and later (open, awaiting review)
 - [dynamic_ledge #10](https://github.com/shandilyaswagat/dynamic_ledge/pull/10) — Choose what Home shows, and add your own tiles (open, awaiting review)
 - [dynamic_ledge #9](https://github.com/shandilyaswagat/dynamic_ledge/pull/9) — Show the brightness indicator only for the brightness keys, and shorten it (open, awaiting review)
 - [dynamic_ledge #8](https://github.com/shandilyaswagat/dynamic_ledge/pull/8) — Add an Edit menu so copy and paste work in the notch's text fields (open, awaiting review)
+- [ReconGrid-AI #96](https://github.com/AkshayHaldar/ReconGrid-AI/pull/96) — Confirm before downloading the Excel audit workbook (merged)
 - [raktsetu #100](https://github.com/saisiddi/raktsetu/pull/100) — Add FAQ page. Closes #5 (merged)
 - [CodePulse #305](https://github.com/code-with-abhi-i5/CodePulse/pull/305) — Add reusable battle code snippet with line numbers and copy button (merged)
 - [raktsetu #90](https://github.com/saisiddi/raktsetu/pull/90) — Emergency resources page with official links. Closes #50 (merged)
